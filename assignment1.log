@@ -1,0 +1,89 @@
+INFO:root:This is constructor and it says 'Hello Python'
+INFO:root:************ Inside Swap function **************
+INFO:root:First variable entered is : 123
+INFO:root:Second variable entered is : 456
+INFO:root:The value of x after swapping is :456
+INFO:root:The value of y after swapping is :123
+INFO:root:************* Getting input from user *************
+INFO:root:*********** Validating given input number **********
+INFO:root:First variable entered is : 56
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 65
+INFO:root:*************Inside addition function**************
+INFO:root:The addition of given number 56 and 65  is: 121
+INFO:root:This is constructor and it says 'Hello Python'
+INFO:root:************ Inside Swap function **************
+INFO:root:First variable entered is : 656
+INFO:root:Second variable entered is : 768
+INFO:root:The value of x after swapping is :768
+INFO:root:The value of y after swapping is :656
+INFO:root:************* Getting input from user *************
+INFO:root:*********** Validating given input number **********
+INFO:root:First variable entered is : 556
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 0
+INFO:root:*************Inside addition function**************
+INFO:root:The addition of given number 556 and 0  is: 556
+INFO:root:*************Inside division function**************
+ERROR:root:This is exception while dividing variables is 
+ division by zero 
+Traceback (most recent call last):
+  File "C:\Users\DJParni\PycharmProjects\ProgrammingAssignments\ProgAss1.py", line 80, in division
+    ans = number1 / number2
+ZeroDivisionError: division by zero
+INFO:root:This is constructor and it says 'Hello Python'
+INFO:root:************ Inside Swap function **************
+INFO:root:First variable entered is : rty
+INFO:root:Second variable entered is : ghg
+INFO:root:The value of x after swapping is :ghg
+INFO:root:The value of y after swapping is :rty
+INFO:root:************* Getting input from user *************
+INFO:root:*********** Validating given input number **********
+INFO:root:First variable entered is : 78
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 67
+INFO:root:*************Inside addition function**************
+INFO:root:The addition of given number 78 and 67  is: 145
+INFO:root:*************Inside division function**************
+INFO:root:The division of given number 78 and 67  is: 1.164179104477612
+INFO:root:This is constructor and it says 'Hello Python'
+INFO:root:************ Inside Swap function **************
+INFO:root:First variable entered is : 78
+INFO:root:Second variable entered is : 95
+INFO:root:The value of x after swapping is :95
+INFO:root:The value of y after swapping is :78
+INFO:root:************* Getting input from user *************
+INFO:root:*********** Validating given input number **********
+INFO:root:First variable entered is : 56
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 78
+INFO:root:*************Inside addition function**************
+INFO:root:The addition of given number 56 and 78  is: 134
+INFO:root:*************Inside division function**************
+INFO:root:The division of given number 56 and 78  is: 0.717948717948718
+INFO:root:*********** Validating given input number **********
+INFO:root:Base of triangle entered is : 50
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 50
+INFO:root:The area of triangle is : 1250.0
+INFO:root:This is constructor and it says 'Hello Python'
+INFO:root:************ Inside Swap function **************
+INFO:root:First variable entered is : 56
+INFO:root:Second variable entered is : 67
+INFO:root:The value of x after swapping is :67
+INFO:root:The value of y after swapping is :56
+INFO:root:************* Getting input from user *************
+INFO:root:*********** Validating given input number **********
+INFO:root:First variable entered is : 56
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 78
+INFO:root:*************Inside addition function**************
+INFO:root:The addition of given number 56 and 78  is: 134
+INFO:root:*************Inside division function**************
+INFO:root:The division of given number 56 and 78  is: 0.717948717948718
+INFO:root:*********** Validating given input number **********
+INFO:root:Base of triangle entered is : 56
+INFO:root:*********** Validating given input number **********
+INFO:root:Second variable entered is : 78
+INFO:root:The area of triangle is : 2184.0
+INFO:root:This is system generated random number : 34
